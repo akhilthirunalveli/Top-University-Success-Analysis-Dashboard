@@ -1,25 +1,12 @@
-# Global Analysis of Universities' Success 
+# Top University Success Analysis 
 
 Comprehensive global analysis of university success utilizing **Power BI, Excel, and SQL** integrating data from diverse ranking systems and criteria.
 
-
----
-
-![Screenshot 2024-04-26 173935](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/7db39916-0718-4ac3-a876-427efe3024dd)
-
-
 ## How to Access Project Materials
-
-- [Link to Access the PowerPoint Presentation and Video Walkthrough](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
-  - Access the PowerPoint presentation for an in-depth understanding of the project. Additionally, watch the accompanying video walkthrough for a detailed explanation of key insights and methodologies.
-
-  [![PowerPoint Presentation](https://img.shields.io/badge/PowerPoint-FF0000?style=for-the-badge&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
-
----
 
 ## Overview
 
-The "University Success Analysis" is a comprehensive capstone project exploring the impact of ranking systems on universities. It aims to compare university rankings, evaluate the influence of ranking criteria, and analyze dynamic shifts in university metrics over time.
+The "Top University Success Analysis" is a comprehensive project exploring the impact of ranking systems on universities. It aims to compare university rankings, evaluate the influence of ranking criteria, and analyze dynamic shifts in university metrics over time.
 
 ---
 
@@ -38,7 +25,6 @@ This project holds significant implications for gaining insights into and enhanc
 
 ### Mutually Exclusive, Collectively Exhaustive (MECE) Approach
 
-![mece](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/0dea950f-d01b-4dc8-8714-4c542f43753e)
 
 *The MECE diagram outlines the structured approach applied in dissecting and evaluating the dataset. This method ensures that every component is distinct (Mutually Exclusive) while covering all possibilities (Collectively Exhaustive). It serves as the foundation for uncovering valuable insights and patterns across various dimensions, contributing to a comprehensive understanding of the data.*
 
@@ -54,15 +40,12 @@ This project holds significant implications for gaining insights into and enhanc
 
 ### Entity-Relationship (ER) Diagram
 
-<img src="https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/75ba0c75-490e-4733-bd5d-4574085c6fe9" alt="ER Diagram" width="1200">
-
 *The Entity-Relationship (ER) Diagram illustrates interconnected data entities, providing a visual guide to relationships between countries, universities, ranking systems, criteria, and their dynamic interactions in global higher education.*
 
 ## 4. Project Presentation (PowerPoint)
 
 - **File Name:** Project_Presentation.pptx
 - **Description:** Commence a visual journey! This PowerPoint presentation provides an overview of the project, methodologies, and a detailed breakdown of each problem statement addressed during the exploratory data analysis (EDA) and Power BI phases.
-- [Link to Access the PowerPoint Presentation and Video Walkthrough](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
 
 *Access the PowerPoint presentation for a comprehensive overview of the project, and watch the accompanying video walkthrough for detailed insights and methodologies*
 
@@ -129,32 +112,16 @@ Developed four detailed Power BI dashboards to provide a clear and thorough visu
 ### **1. Country Analysis Dashboard:**
    - Visualizes ranking trends and metrics based on countries.
      
-  ![country_analysis](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/874ec900-3f7f-4504-bb34-02288e6f754e)
-
----
 
 ### **2. University Analysis Dashboard:**
    - Offers insights into individual university performance and metrics.
-     
-![university_analysis](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/0dc87181-7a65-4609-a81b-3b0b5f732ddd)
-
-
----
 
 ### **3. Ranking System Analysis Dashboard:**
    - Compares and contrasts rankings across different systems.
-     
-![ranking_analysis](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/62ad3be3-720c-41a6-bbaa-27b7477ecc67)
-
----
 
 ### **4. Yearly Analysis Dashboard:**
    - Examines temporal changes in university metrics and rankings.
-     
-![yearly_analysis](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/a0f3a95b-f873-467c-93fb-392664ed1705)
-
-
----
+   
 
 ## Project Execution
 
@@ -177,41 +144,3 @@ Seamlessly navigate the project with these simple steps:
 3. **Detailed Project Overview:**
    - Gain profound insights and methodologies.
    - Access `University_Success_Detailed_Analysis_Report.docx` for a deep understanding of the project lifecycle, covering data collection, transformation, MECE breakdown, tool integration, EDA insights, and Power BI solutions.
-
----
-
-## Feedback, Contributions, and Git Clone
-
-Your feedback is invaluable! If you have suggestions, or questions, or would like to contribute to the "University Success Analysis" project, feel free to:
-
-- **Open an Issue:**
-  - For bug reports or feature requests, [open an issue](https://github.com/virajbhutada/Global-Universities-Success-Analysis/issues).
-
-- **Submit a Pull Request:**
-  - Contribute enhancements or fixes by [submitting a pull request](https://github.com/virajbhutada/Global-Universities-Success-Analysis/pulls).
-
-- **Reach Out:**
-  - You can [reach out via email](virajnbhutada24@gmail.com).
-
-### Git Clone
-
-To clone the repository and access the project files locally, use the following command:
-
-```bash
-git clone https://github.com/virajbhutada/Global-Universities-Success-Analysis.git
-```
----
-
-## Project Involvement and Customization
-
-Your active engagement enhances the quality of this project, and your valuable insights are truly appreciated! Your contributions contribute to the excellence of the "University Success Analysis."
-
----
-
-## Connect With Me 🌐
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
-
----
-
-**Explore, Analyze, and Contribute! 🌐📊**
